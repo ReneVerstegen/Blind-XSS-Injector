@@ -20,7 +20,7 @@ This Burp Suite plugin is able to perform blind XSS injections on headers and pa
 ## Settings
 - In the plugin tab, add payloads using the url from your callback server like [XSS Hunter Express](https://github.com/mandatoryprogrammer/xsshunter-express) or [ezXSS](https://github.com/ssl/ezXSS)
 - Add headers the extension should look for
-- The extension will generate a lot of traffic, a thottle can be set to limit this
+- The extension will generate a lot of traffic, a throttle can be set to limit this
 - Choose whether non-existing headers should be used
 - Choose whether to extend or override header values
 - Select the parameter types the extensions should look for
